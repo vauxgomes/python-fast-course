@@ -19,3 +19,4 @@ This is just some files I use to introduce Python to people
  - Class 3
    - Advancing with lists and dictionaries
    - Files: Input & Output
+   - Module Import
