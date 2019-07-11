@@ -20,3 +20,16 @@ This is just some files I use to introduce Python to people
    - Advancing with lists and dictionaries
    - Files: Input & Output
    - Module Import
+ - [Project 1](notebooks/projects/project-1.ipynb)
+ - [Class 4](notebooks/classes/class-4.ipynb)
+   - Install pip (linux)
+   - Virtual environment
+   - Http requests
+     - GET
+ - [Class 5](notebooks/classes/class-5.ipynb)
+   - BeatifulSoup
+     - Prettify
+     - Find
+     - Parsing
+ - [Project 2](notebooks/projects/project-2.ipynb)
+
