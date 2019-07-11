@@ -22,7 +22,7 @@ This is just some files I use to introduce Python to people
    - Module Import
  - [Project 1](notebooks/projects/project-1.ipynb)
  - [Class 4](notebooks/classes/class-4.ipynb)
-   - Install pip (linux)
+   - Package installation
    - Virtual environment
    - HTTP Requests
  - [Class 5](notebooks/classes/class-5.ipynb)
