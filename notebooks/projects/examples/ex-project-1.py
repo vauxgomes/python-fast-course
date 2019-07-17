@@ -1,6 +1,6 @@
 # Variáveis
 contacts = [
-	{'name': 'Bob', 'surname': '', 'phone': '555-1407', 'email': 'example@python.com'},
+	{'name': 'Bobi', 'surname': '', 'phone': '555-1407', 'email': 'example@python.com'},
 	{'name': 'Alice', 'surname': 'Johnson', 'phone': '555-1607', 'email': ''},
 ]
 
@@ -81,12 +81,10 @@ def remove_contact(contacts):
 		opt = -1
 		while opt < 0 or opt > len(sel):
 			opt = int(input('	> '))
-			
-		if n == 0:
+		if opt == 0:
 			print('Nenhum contato selecionado')
 		else:
-			x = sel[n - 1][0]
-			contacts.pop(x)
+			contacts.pop(opt - 1)
 			
 
 def print_contacts(contacts):
