@@ -29,6 +29,9 @@ This is just some files I use to introduce Python to people
    - BeatifulSoup
      - Prettify
      - Find
-     - Parsing
  - [Project 2](notebooks/projects/project-2.ipynb)
-
+ - [Class 6](notebooks/classes/class-6.ipynb)
+   - Voice recording
+   - Google API
+     - Google Maps
+     - Google Translator
