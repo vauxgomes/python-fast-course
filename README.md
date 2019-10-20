@@ -7,6 +7,11 @@ This is just some files I use to introduce Python to people
      - Numbers
      - Strings
      - Booleans
+   - Operators
+     - Arithmetic
+     - Logical
+     - Comparison
+   - Group types
      - Lists
      - Tuples
      - Dictionaries 
