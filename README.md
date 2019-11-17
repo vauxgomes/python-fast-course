@@ -19,9 +19,14 @@
    
  - [Class 3](notebooks/classes/class-3.ipynb)
    - If, else, elif
+   - [Exercices](notebooks/exercices/exercices-1.ipynb)
    
  - [Class 4](notebooks/classes/class-4.ipynb)
    - Group types
      - Lists
+     
+ - [Class 5](notebooks/classes/class-5.ipynb)
    - Loops
      - For
+     - While
+   - [Exercices](notebooks/exercices/exercices-2.ipynb)
