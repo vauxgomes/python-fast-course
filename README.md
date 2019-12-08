@@ -30,3 +30,6 @@
      - For
      - While
    - [Exercices](notebooks/exercices/exercices-2.ipynb)
+ - [Class 6](notebooks/classes/class-6.ipynb)
+   - Functions
+   - Built-in functions
