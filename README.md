@@ -1,35 +1,30 @@
-# Python course
-# Summary
- - [Class 1](notebooks/classes/class-1.ipynb)
-   - Variables
-   - Constants
-   - Naming convention
-   - Operators
-     - Arithmetic
-     - Comparison
-     - Assignment
-     - Logical
-     - Operators precedence
-    
- - [Class 2](notebooks/classes/class-2.ipynb)  
-   - Basic types
-     - Numbers
-     - Strings
-     - Booleans
-   
- - [Class 3](notebooks/classes/class-3.ipynb)
-   - If, else, elif
-   - [Exercices](notebooks/exercices/exercices-1.ipynb)
-   
- - [Class 4](notebooks/classes/class-4.ipynb)
-   - Group types
-     - Lists
-     
- - [Class 5](notebooks/classes/class-5.ipynb)
-   - Loops
-     - For
-     - While
-   - [Exercices](notebooks/exercices/exercices-2.ipynb)
- - [Class 6](notebooks/classes/class-6.ipynb)
-   - Functions
-   - Built-in functions
+# Python Notebooks
+
+## Choose a language
+
+ - [Descrição](#descrição)
+ - [Descripion](#description)
+
+## Descrição
+
+Este é um material para aprendizado e revisão de conceitos da programação em Python 3.x.x.
+
+O material é composto por *notebooks* escritos em portuquês e em inglês e fracionados por assunto e propósito. Os três propósitos específicos são:
+
+ - [Estudo inicial](learn/pt/README.md)
+ - [Revisão](review/pt/README.md)
+ - [Exercícios](exercices/pt/README.md)
+
+Utilize o indexador acima para acessar cada *notebook*.
+
+## Description
+
+This material was created to help students on the ways o Python 3.x.x.
+
+The notebooks are separate by its main goals:
+
+ - [Initial Learning](learn/en/README.md)
+ - [Review](review/en/README.md)
+ - [Exercices](exercices/en/README.md)
+
+Please, use the links above to access more information.
