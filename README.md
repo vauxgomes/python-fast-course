@@ -1,30 +1,44 @@
 # Python Notebooks
 
-## Choose a language
-
- - [Descrição](#descrição)
- - [Descripion](#description)
-
-## Descrição
+### Descrição
 
 Este é um material para aprendizado e revisão de conceitos da programação em Python 3.x.x.
 
-O material é composto por *notebooks* escritos em portuquês e em inglês e fracionados por assunto e propósito. Os três propósitos específicos são:
+O material é composto por *notebooks* escritos em portuquês e separados por assunto:
 
- - [Estudo inicial](learn/pt/README.md)
- - [Revisão](review/pt/README.md)
- - [Exercícios](exercices/pt/README.md)
+### Notebooks
 
-Utilize o indexador acima para acessar cada *notebook*.
+Utilize a tabela abaixo para acessar cada *notebook*.
 
-## Description
+#### Scripts
 
-This material was created to help students on the ways o Python 3.x.x.
+| Assunto | Aprendizagem | Revisão | Exercícios |
+| -- | -- | -- | -- |
+| Variáveis & Constantes | [Link](classes/pt/variables.ipynb) | - | - |
+| Operadores | [Link](classes/pt/operators.ipynb) | - | - |
+| Tipos básicos | - | - | - |
+| Condicionais | - | - | - |
+| Listas | - | [Link](review/pt/lists.ipynb) | [Link](exercices/pt/lists.ipynb) |
+| Laços | - | - | - | - |
+| Funções | - | - | - | - |
+| Lambda | - | - | - | - |
+| Map, reduce, filter | - | - | - | - |
 
-The notebooks are separate by its main goals:
+#### Orientação da objetos
 
- - [Initial Learning](learn/en/README.md)
- - [Review](review/en/README.md)
- - [Exercices](exercices/en/README.md)
+| Assunto | Aprendizagem | Revisão | Exercícios |
+| -- | -- | -- | -- |
+| Classes I | - | - | - | - |
+| Classes II | - | - | - | - |
+| Classes Abstratas | - | - | - | - |
 
-Please, use the links above to access more information.
+#### Extras
+
+| Assunto | Aprendizagem | Revisão | Exercícios |
+| -- | -- | -- | -- |
+| Controle de exceções | - | - | - | - |
+| Unittest | - | - | - | - |
+| Argparse | - | - | - | - |
+| Ambiente Virtual | - | - | - | - |
+
+
