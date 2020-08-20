@@ -17,7 +17,7 @@ Utilize a tabela abaixo para acessar cada *notebook*.
 | Variáveis & Constantes | [Link](classes/pt/variables.ipynb) | - | - |
 | Operadores | [Link](classes/pt/operators.ipynb) | - | - |
 | Tipos básicos | [Link](classes/pt/types.ipynb) | - | - |
-| Condicionais | - | - | - |
+| Condicionais | [Link](classes/pt/conditionals.ipynb) | - | - |
 | Listas | - | [Link](review/pt/lists.ipynb) | [Link](exercices/pt/lists.ipynb) |
 | Laços | - | - | - | - |
 | Funções | - | - | - | - |
