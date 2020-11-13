@@ -41,4 +41,10 @@ Utilize a tabela abaixo para acessar cada *notebook*.
 | Argparse | - | - | - | - |
 | Ambiente Virtual | - | - | - | - |
 
+### Desafios
+- [Nível 0](challenges/level-0.ipynb)
+- [Nível 1](challenges/level-1.ipynb)
+- [Nível 2](challenges/level-2.ipynb)
+- [Nível 3](challenges/level-3.ipynb)
+
 
