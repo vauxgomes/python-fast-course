@@ -19,7 +19,7 @@ Utilize a tabela abaixo para acessar cada *notebook*.
 | Tipos básicos | [Link](classes/pt/types.ipynb) | - | - |
 | Condicionais | [Link](classes/pt/conditionals.ipynb) | - | - |
 | Listas | - | [Link](review/pt/lists.ipynb) | [Link](exercices/pt/lists.ipynb) |
-| Laços | - | - | - | - |
+| Laços | [For](classes/pt/loops-for.ipynb), [While](classes/pt/loops-while.ipynb) | - | - | - |
 | Funções | - | - | - | - |
 | Lambda | - | - | - | - |
 | Map, reduce, filter | - | - | - | - |
@@ -28,9 +28,18 @@ Utilize a tabela abaixo para acessar cada *notebook*.
 
 | Assunto | Aprendizagem | Revisão | Exercícios |
 | -- | -- | -- | -- |
-| Classes I | - | - | - | - |
-| Classes II | - | - | - | - |
-| Classes Abstratas | - | - | - | - |
+| Classes Básicas | - | - | - | - |
+
+#### Estruturas de dados
+
+| Assunto | Aprendizagem | Revisão | Exercícios |
+| -- | -- | -- | -- |
+| Lista encadeada | - | - | - | - |
+| Pilha | - | - | - | - |
+| Fila | - | - | - | - |
+| Árvores bináreas de busca | - | - | - | - |
+| Árvores balanceadas | - | - | - | - |
+| Conjuntos disjuntos | - | - | - | - |
 
 #### Extras
 
